@@ -38,4 +38,4 @@ Currently working on a bunch projects but keeping it low in case they end up nev
 | Software           | C, C++, Rust, Python |
 | Other              | LaTeX, controlled sarcasm |
 
-  **I know, I know, says nothing and everything*
+  **I know, I know, that both means nothing and everything*
